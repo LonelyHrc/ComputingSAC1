@@ -96,4 +96,10 @@ body{
 }
 .student{
 	font-weight: bold;
+	font-family: sans-serif;
+	color: black;
+}
+dt{
+	font-weight: bold;
+	color: black;
 }
